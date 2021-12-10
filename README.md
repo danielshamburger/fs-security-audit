@@ -1,4 +1,4 @@
-# File System Security Audit
+# 🔒 File System Security Audit
 
 This script crawls the file system from a specified directory and runs a basic security audit allowing the user to monitor file changes, including new and deleted files as well as changes to file size or mode.
 
