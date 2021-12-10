@@ -1,2 +1,1 @@
-# fs-security-audit
-Project for CS452 at GVSU
+# File System Security Audit
